@@ -222,104 +222,104 @@
             ],
             "services": [
                 {
-                    "id": 1, // numero da aumentare
-                    "active": true, // true attivo & false disattivo
-                    "time": 60, // tempo in numero ex. 20 / 30 / 40/ 10 / 120
-                    "title": "Shampoo-Piega", // nome trattamento
-                    "desc": "", // descrizione trattamento
-                    "cost": 20, // costo 
-                    "category": 2 // categoria vedi ID servicesCategories
+                    "id": 1, 
+                    "active": true,
+                    "time": 60, 
+                    "title": "Shampoo-Piega", 
+                    "desc": "",
+                    "cost": 20, 
+                    "category": 2 
                 },
                 {
-                    "id": 5, // numero da aumentare
-                    "active": true, // true attivo & false disattivo
-                    "time": 60, // tempo in numero ex. 20 / 30 / 40/ 10 / 120
-                    "title": "Taglio", // nome trattamento
-                    "desc": "", // descrizione trattamento
-                    "cost": 24, // costo 
-                    "category": 2 // categoria vedi ID servicesCategories
+                    "id": 5, 
+                    "active": true, 
+                    "time": 60,
+                    "title": "Taglio",
+                    "desc": "",
+                    "cost": 24, 
+                    "category": 2 
                 },
                 {
-                    "id": 3, // numero da aumentare
-                    "active": true, // true attivo & false disattivo
-                    "time": 60, // tempo in numero ex. 20 / 30 / 40/ 10 / 120
-                    "title": "Colore (senza ammoniaca)", // nome trattamento
-                    "desc": "", // descrizione trattamento
-                    "cost": 42, // costo 
-                    "category": 2 // categoria vedi ID servicesCategories
+                    "id": 3,
+                    "active": true, 
+                    "time": 60, 
+                    "title": "Colore (senza ammoniaca)",
+                    "desc": "", 
+                    "cost": 42, 
+                    "category": 2 
                 },
                 {
-                    "id": 4, // numero da aumentare
-                    "active": true, // true attivo & false disattivo
-                    "time": 60, // tempo in numero ex. 20 / 30 / 40/ 10 / 120
-                    "title": "Gloss Lumiere", // nome trattamento
-                    "desc": "", // descrizione trattamento
-                    "cost": 22, // costo 
-                    "category": 2 // categoria vedi ID servicesCategories
+                    "id": 4,
+                    "active": true, 
+                    "time": 60, 
+                    "title": "Gloss Lumiere",
+                    "desc": "", 
+                    "cost": 22, 
+                    "category": 2 
                 },
                 {
-                    "id": 5, // numero da aumentare
-                    "active": true, // true attivo & false disattivo
-                    "time": 60, // tempo in numero ex. 20 / 30 / 40/ 10 / 120
-                    "title": "Contrasti", // nome trattamento
-                    "desc": "", // descrizione trattamento
-                    "cost": 50, // costo 
-                    "category": 2 // categoria vedi ID servicesCategories
+                    "id": 5, 
+                    "active": true, 
+                    "time": 60,
+                    "title": "Contrasti",
+                    "desc": "",
+                    "cost": 50,
+                    "category": 2 
                 },
                 {
-                    "id": 6, // numero da aumentare
-                    "active": true, // true attivo & false disattivo
-                    "time": 60, // tempo in numero ex. 20 / 30 / 40/ 10 / 120
-                    "title": "Go Repair", // nome trattamento
-                    "desc": "", // descrizione trattamento
-                    "cost": 30, // costo 
-                    "category": 2 // categoria vedi ID servicesCategories
+                    "id": 6, 
+                    "active": true, 
+                    "time": 60, 
+                    "title": "Go Repair", 
+                    "desc": "", 
+                    "cost": 30, 
+                    "category": 2 
                 },
                 {
-                    "id": 7, // numero da aumentare
-                    "active": true, // true attivo & false disattivo
-                    "time": 60, // tempo in numero ex. 20 / 30 / 40/ 10 / 120
-                    "title": "Go Color", // nome trattamento
-                    "desc": "", // descrizione trattamento
-                    "cost": 30, // costo 
-                    "category": 2 // categoria vedi ID servicesCategories
+                    "id": 7, 
+                    "active": true, 
+                    "time": 60, 
+                    "title": "Go Color", 
+                    "desc": "", 
+                    "cost": 30, 
+                    "category": 2 
                 },
                 {
-                    "id": 8, // numero da aumentare
-                    "active": true, // true attivo & false disattivo
-                    "time": 60, // tempo in numero ex. 20 / 30 / 40/ 10 / 120
-                    "title": "Go Detox", // nome trattamento
-                    "desc": "", // descrizione trattamento
-                    "cost": 15, // costo 
-                    "category": 2 // categoria vedi ID servicesCategories
+                    "id": 8, 
+                    "active": true, 
+                    "time": 60, 
+                    "title": "Go Detox", 
+                    "desc": "", 
+                    "cost": 15, 
+                    "category": 2
                 },
                 {
-                    "id": 9, // numero da aumentare
-                    "active": true, // true attivo & false disattivo
-                    "time": 60, // tempo in numero ex. 20 / 30 / 40/ 10 / 120
-                    "title": "Shampoo Taglio Phon", // nome trattamento
-                    "desc": "", // descrizione trattamento
-                    "cost": 25, // costo 
-                    "category": 1 // categoria vedi ID servicesCategories
+                    "id": 9, 
+                    "active": true, 
+                    "time": 60,
+                    "title": "Shampoo Taglio Phon",
+                    "desc": "",
+                    "cost": 25,
+                    "category": 1 
                 },
                 {
-                    "id": 10, // numero da aumentare
-                    "active": true, // true attivo & false disattivo
-                    "time": 60, // tempo in numero ex. 20 / 30 / 40/ 10 / 120
-                    "title": "Taglio Detox Phon", // nome trattamento
-                    "desc": "", // descrizione trattamento
-                    "cost": 38, // costo 
-                    "category": 1 // categoria vedi ID servicesCategories
-                },
+                    "id": 10, 
+                    "active": true,
+                    "time": 60, 
+                    "title": "Taglio Detox Phon", 
+                    "desc": "",
+                    "cost": 38,
+                    "category": 1
+                }
             ],
             "servicesCategories": [
                 {
-                    "id": 1, // numero da aumentare
-                    "nome": "Uomo" // Categoria Servizio
+                    "id": 1, 
+                    "nome": "Uomo"
                 },
                 {
-                    "id": 2, // numero da aumentare
-                    "nome": "Donna" // Categoria Servizio
+                    "id": 2, 
+                    "nome": "Donna"
                 }
             ],
             "workersName": [
