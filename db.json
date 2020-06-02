@@ -180,15 +180,15 @@
             "position": [
                 {
                     "id": 1,
-                    "lat": "",
-                    "long": ""
+                    "lat": "45.499790",
+                    "long": "12.246970"
                 }
             ]
         },
         {
             "id": 2,
             "nome": "Jean Louis David",
-            "via": "via Olivi, 42, 30175 Mestre VE",
+            "via": "Via Olivi, 42, 30175 Mestre VE",
             "rating": 1,
             "ratings": 1,
             "desc": "benvenuti nell'universo Jean Louis David e in modo particolare benvenuti nel salone di Mestre",
@@ -388,8 +388,8 @@
             "position": [
                 {
                     "id": 1,
-                    "lat": "",
-                    "long": ""
+                    "lat": "45.491380",
+                    "long": "12.241470"
                 }
             ]
         },
@@ -421,8 +421,8 @@
                     "id": 1,
                     "active": true,
                     "time": 60,
-                    "title": "",
-                    "desc": "Taglio capelli",
+                    "title": "Taglio capelli",
+                    "desc": "",
                     "cost": 15,
                     "category": 1
                 },
@@ -430,8 +430,8 @@
                     "id": 2,
                     "active": true,
                     "time": 60,
-                    "title": "",
-                    "desc": "Cura Barba",
+                    "title": "Cura Barba",
+                    "desc": "",
                     "cost": 10,
                     "category": 1
                 },
@@ -457,8 +457,8 @@
                     "id": 5,
                     "active": true,
                     "time": 60,
-                    "title": "",
-                    "desc": "Colorazione",
+                    "title": "Colorazione",
+                    "desc": "",
                     "cost": 35,
                     "category": 3
                 },
@@ -466,8 +466,8 @@
                     "id": 6,
                     "active": true,
                     "time": 60,
-                    "title": "",
-                    "desc": "Colpi di Sole",
+                    "title": "Colpi di Sole",
+                    "desc": "",
                     "cost": 45,
                     "category": 3
                 },
@@ -475,8 +475,8 @@
                     "id": 7,
                     "active": true,
                     "time": 60,
-                    "title": "",
-                    "desc": "Rainbow",
+                    "title": "Rainbow",
+                    "desc": "",
                     "cost": 40,
                     "category": 3
                 },
@@ -484,8 +484,8 @@
                     "id": 8,
                     "active": true,
                     "time": 60,
-                    "title": "",
-                    "desc": "Stiratura",
+                    "title": "Stiratura",
+                    "desc": "",
                     "cost": 60,
                     "category": 3
                 },
@@ -493,8 +493,8 @@
                     "id": 9,
                     "active": true,
                     "time": 60,
-                    "title": "",
-                    "desc": "Liscio perfetto",
+                    "title": "Liscio perfetto",
+                    "desc": "",
                     "cost": 50,
                     "category": 3
                 },
@@ -502,8 +502,8 @@
                     "id": 10,
                     "active": true,
                     "time": 60,
-                    "title": "",
-                    "desc": "Permanente",
+                    "title": "Permanente",
+                    "desc": "",
                     "cost": 40,
                     "category": 3
                 },
@@ -511,8 +511,8 @@
                     "id": 11,
                     "active": true,
                     "time": 60,
-                    "title": "",
-                    "desc": "Trattamento curativo",
+                    "title": "Trattamento curativ",
+                    "desc": "",
                     "cost": 40,
                     "category": 4
                 },
@@ -520,8 +520,8 @@
                     "id": 12,
                     "active": true,
                     "time": 60,
-                    "title": "",
-                    "desc": "Ricostruttore",
+                    "title": "Ricostruttore",
+                    "desc": "",
                     "cost": 65,
                     "category": 4
                 },
@@ -529,8 +529,8 @@
                     "id": 13,
                     "active": true,
                     "time": 60,
-                    "title": "",
-                    "desc": "Extension",
+                    "title": "Extension",
+                    "desc": "",
                     "cost": 85,
                     "category": 4
                 },
@@ -538,8 +538,8 @@
                     "id": 14,
                     "active": true,
                     "time": 60,
-                    "title": "",
-                    "desc": "Filler Therapy",
+                    "title": "Filler Therapy",
+                    "desc": "",
                     "cost": 60,
                     "category": 4
                 },
@@ -547,8 +547,8 @@
                     "id": 15,
                     "active": true,
                     "time": 60,
-                    "title": "",
-                    "desc": "Acconciatura",
+                    "title": "Acconciatura",
+                    "desc": "",
                     "cost": 35,
                     "category": 5
                 },
@@ -556,8 +556,8 @@
                     "id": 16,
                     "active": true,
                     "time": 60,
-                    "title": "",
-                    "desc": "Spray Beach",
+                    "title": "Spray Beach",
+                    "desc": "",
                     "cost": 35,
                     "category": 6
                 },
@@ -565,8 +565,8 @@
                     "id": 17,
                     "active": true,
                     "time": 60,
-                    "title": "",
-                    "desc": "Shampoo after sun",
+                    "title": "Shampoo after sun",
+                    "desc": "",
                     "cost": 45,
                     "category": 6
                 }
@@ -675,8 +675,8 @@
             "position": [
                 {
                     "id": 1,
-                    "lat": "",
-                    "long": ""
+                    "lat": "45.500050",
+                    "long": "12.251950"
                 }
             ]
         },
@@ -940,8 +940,8 @@
             "position": [
                 {
                     "id": 1,
-                    "lat": "",
-                    "long": ""
+                    "lat": "45.492260",
+                    "long": "12.245270"
                 }
             ]
         },
@@ -1040,7 +1040,70 @@
                     "desc": "",
                     "cost": 35,
                     "category": 2
-                }
+                },
+                {
+                    "id": 9,
+                    "active": true,
+                    "time": 60,
+                    "title": "Massaggio LOMI-LOMI",
+                    "desc": "",
+                    "cost": 80,
+                    "category": 2
+                },
+                {
+                    "id": 10,
+                    "active": true,
+                    "time": 60,
+                    "title": "Massaggio con oli caldi essenziali",
+                    "desc": "",
+                    "cost": 50,
+                    "category": 2
+                },
+                {
+                    "id": 11,
+                    "active": true,
+                    "time": 60,
+                    "title": "Massaggio SCACCIA PENSIERI",
+                    "desc": "",
+                    "cost": 65,
+                    "category": 2
+                },
+                {
+                    "id": 12,
+                    "active": true,
+                    "time": 60,
+                    "title": "Baffetti",
+                    "desc": "",
+                    "cost": 65,
+                    "category": 3
+                },
+                {
+                    "id": 13,
+                    "active": true,
+                    "time": 60,
+                    "title": "Baffetti e mento",
+                    "desc": "",
+                    "cost": 25,
+                    "category": 3
+                },
+                {
+                    "id": 14,
+                    "active": true,
+                    "time": 60,
+                    "title": "Sopracciglia",
+                    "desc": "",
+                    "cost": 30,
+                    "category": 3
+                },
+                {
+                    "id": 15,
+                    "active": true,
+                    "time": 60,
+                    "title": "Viso",
+                    "desc": "",
+                    "cost": 35,
+                    "category": 3
+                },
             ],
             "servicesCategories": [
                 {
@@ -1138,8 +1201,8 @@
             "position": [
                 {
                     "id": 1,
-                    "lat": "",
-                    "long": ""
+                    "lat": "45.497560",
+                    "long": "12.237060"
                 }
             ]
         }
