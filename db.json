@@ -1,1262 +1,1228 @@
 {
-    "topnegozi": [
+  "topnegozi": [
+    {
+      "id": 1,
+      "nome": "E-Style - Parrucchieri - Mestre",
+      "desc": "",
+      "source": "https://lh5.googleusercontent.com/p/AF1QipMlIW9KtiOq3xldCF-JzP34gHM9xL-DAKCAr5MP=w3000-h3000",
+      "rating": 2.5,
+      "ratings": 10,
+      "via": "Viale Giuseppe Garibaldi, 80, 30174 Venezia VE",
+      "isNew": true
+    },
+    {
+      "id": 2,
+      "nome": "Jean Louis David",
+      "descrizione": "",
+      "source": "https://extranet.provalliance.biz/legacy/minisite/gallery/visuels/JLD_NB.jpg",
+      "rating": 3.5,
+      "ratings": 4,
+      "via": "Via Olivi, 42 30175 Mestre VE",
+      "isNew": true
+    }
+  ],
+  "negozi": [
+    {
+      "id": 1,
+      "nome": "E-Style Parrucchieri",
+      "via": "Viale Giuseppe Garibaldi, 80, 30174 Venezia VE",
+      "rating": 4,
+      "ratings": 21,
+      "desc": "E-Style parrucchieri ti dà con piacere il benvenuto nel suo salone nel centro di Mestre. Dove i tuoi capelli verranno trattati con prodotti e servizi innovativi e con tutta la nostra esperienza e tecniche all’avanguardia.",
+      "source": "https://lh5.googleusercontent.com/p/AF1QipMlIW9KtiOq3xldCF-JzP34gHM9xL-DAKCAr5MP=w3000-h3000",
+      "cat": 1,
+      "images": [
         {
-            "id": 1,
-            "nome": "E-Style - Parrucchieri - Mestre",
-            "desc": "",
-            "source": "https://lh5.googleusercontent.com/p/AF1QipMlIW9KtiOq3xldCF-JzP34gHM9xL-DAKCAr5MP=w3000-h3000",
-            "rating": 2.5,
-            "ratings": 10,
-            "via": "Viale Giuseppe Garibaldi, 80, 30174 Venezia VE",
-            "isNew": true
+          "id": 1,
+          "source": ""
         },
         {
-            "id": 2,
-            "nome": "Jean Louis David",
-            "descrizione": "",
-            "source": "https://extranet.provalliance.biz/legacy/minisite/gallery/visuels/JLD_NB.jpg",
-            "rating": 3.5,
-            "ratings": 4,
-            "via": "Via Olivi, 42 30175 Mestre VE",
-            "isNew": true
-        }
-    ],
-    "negozi": [
-        {
-            "id": 1,
-            "nome": "E-Style Parrucchieri",
-            "via": "Viale Giuseppe Garibaldi, 80, 30174 Venezia VE",
-            "rating": 4,
-            "ratings": 21,
-            "desc": "E-Style parrucchieri ti dà con piacere il benvenuto nel suo salone nel centro di Mestre. Dove i tuoi capelli verranno trattati con prodotti e servizi innovativi e con tutta la nostra esperienza e tecniche all’avanguardia.",
-            "source": "https://lh5.googleusercontent.com/p/AF1QipMlIW9KtiOq3xldCF-JzP34gHM9xL-DAKCAr5MP=w3000-h3000",
-            "cat": 1,
-            "images": [
-                {
-                    "id": 1,
-                    "source": ""
-                },
-                {
-                    "id": 2,
-                    "source": ""
-                },
-                {
-                    "id": 3,
-                    "source": ""
-                }
-            ],
-            "services": [
-                {
-                    "id": 1,
-                    "active": true,
-                    "time": 60,
-                    "title": "Barba completa",
-                    "desc": "Trattamento rilassante con panni caldi e freddi",
-                    "cost": 20,
-                    "category": 1
-                },
-                {
-                    "id": 2,
-                    "active": true,
-                    "time": 45,
-                    "title": "Taglio uomo",
-                    "desc": "Comprende shampoo e taglio",
-                    "cost": 15,
-                    "category": 1
-                },
-                {
-                    "id": 3,
-                    "active": true,
-                    "time": 120,
-                    "title": "Colore e piega",
-                    "desc": "Servizio di colorazione e piega",
-                    "cost": 50,
-                    "category": 2
-                },
-                {
-                    "id": 4,
-                    "active": true,
-                    "time": 180,
-                    "title": "Colore taglio e piega",
-                    "desc": "Il servizio comprende colore, taglio e piega",
-                    "cost": 80,
-                    "category": 2
-                },
-                {
-                    "id": 5,
-                    "active": true,
-                    "time": 60,
-                    "title": "Illumina",
-                    "desc": "Il servizio ti porterà la luce al punto giusto nei tuoi capelli",
-                    "cost": 40,
-                    "category": 2
-                }
-            ],
-            "servicesCategories": [
-                {
-                    "id": 1,
-                    "nome": "Uomo"
-                },
-                {
-                    "id": 2,
-                    "nome": "Colore"
-                }
-            ],
-            "workersName": [
-                {
-                    "id": 1,
-                    "nome": "Alice"
-                },
-                {
-                    "id": 2,
-                    "nome": "Luca"
-                }
-            ],
-            "timing": [
-                {
-                    "id": 1,
-                    "orarioStart": "9:00",
-                    "orarioStop": "19:00",
-                    "pausaStart": "",
-                    "pausaStop": "",
-                    "isClosed": true
-                },
-                {
-                    "id": 2,
-                    "orarioStart": "9:00",
-                    "orarioStop": "19:00",
-                    "pausaStart": "",
-                    "pausaStop": "",
-                    "isClosed": false
-                },
-                {
-                    "id": 3,
-                    "orarioStart": "13:00",
-                    "orarioStop": "21:00",
-                    "pausaStart": "",
-                    "pausaStop": "",
-                    "isClosed": false
-                },
-                {
-                    "id": 4,
-                    "orarioStart": "9:00",
-                    "orarioStop": "19:00",
-                    "pausaStart": "",
-                    "pausaStop": "",
-                    "isClosed": false
-                },
-                {
-                    "id": 5,
-                    "orarioStart": "9:00",
-                    "orarioStop": "19:00",
-                    "pausaStart": "",
-                    "pausaStop": "",
-                    "isClosed": false
-                },
-                {
-                    "id": 6,
-                    "orarioStart": "9:00",
-                    "orarioStop": "17:30",
-                    "pausaStart": "",
-                    "pausaStop": "",
-                    "isClosed": false
-                },
-                {
-                    "id": 7,
-                    "orarioStart": "",
-                    "orarioStop": "",
-                    "pausaStart": "",
-                    "pausaStop": "",
-                    "isClosed": true
-                }
-            ],
-            "reviews": [
-                {
-                    "id": 1,
-                    "by": "Laura",
-                    "content": "Sono appena rientrata a casa dopo aver fatto la mia prima esperienza in questo salone,entrando per caso e in tempi ristretti causa lavoro.Cosa dire oltre all.immediata disponibilità e accoglienza,fa da padrone l ironia e l autoironia delle ragazze qualità che apprezzo tanto e contraddistingue molte saloni *Credetemi io ne ho cambiati migliaia.. Mi hanno coccolato tenendo conto delle mie esigenze lasciandomi soddisfatta direi poco.. Ma ultra.. soddisfatta.. Tornerò sapendo di trovare ciò che rispecchia le mie esigenze rapporto qualità prezzo indiscusso.. Saluto a tutte le ragazze nessuno escluso.. Consigliatissimo."
-                }
-            ],
-            "position": [
-                {
-                    "id": 1,
-                    "lat": "45.499790",
-                    "long": "12.246970"
-                }
-            ]
+          "id": 2,
+          "source": ""
         },
         {
-            "id": 2,
-            "nome": "Jean Louis David",
-            "via": "Via Olivi, 42, 30175 Mestre VE",
-            "rating": 1,
-            "ratings": 1,
-            "desc": "benvenuti nell'universo Jean Louis David e in modo particolare benvenuti nel salone di Mestre",
-            "source": "https://extranet.provalliance.biz/legacy/minisite/gallery/visuels/JLD_NB.jpg",
-            "cat": 1,
-            "images": [
-                {
-                    "id": 1,
-                    "source": ""
-                },
-                {
-                    "id": 2,
-                    "source": ""
-                },
-                {
-                    "id": 3,
-                    "source": ""
-                }
-            ],
-            "services": [
-                {
-                    "id": 1,
-                    "active": true,
-                    "time": 60,
-                    "title": "Shampoo-Piega",
-                    "desc": "",
-                    "cost": 20,
-                    "category": 2
-                },
-                {
-                    "id": 2,
-                    "active": true,
-                    "time": 60,
-                    "title": "Taglio",
-                    "desc": "",
-                    "cost": 24,
-                    "category": 2
-                },
-                {
-                    "id": 3,
-                    "active": true,
-                    "time": 60,
-                    "title": "Colore (senza ammoniaca)",
-                    "desc": "",
-                    "cost": 42,
-                    "category": 2
-                },
-                {
-                    "id": 4,
-                    "active": true,
-                    "time": 60,
-                    "title": "Gloss Lumiere",
-                    "desc": "",
-                    "cost": 22,
-                    "category": 2
-                },
-                {
-                    "id": 5,
-                    "active": true,
-                    "time": 60,
-                    "title": "Contrasti",
-                    "desc": "",
-                    "cost": 50,
-                    "category": 2
-                },
-                {
-                    "id": 6,
-                    "active": true,
-                    "time": 60,
-                    "title": "Go Repair",
-                    "desc": "",
-                    "cost": 30,
-                    "category": 2
-                },
-                {
-                    "id": 7,
-                    "active": true,
-                    "time": 60,
-                    "title": "Go Color",
-                    "desc": "",
-                    "cost": 30,
-                    "category": 2
-                },
-                {
-                    "id": 8,
-                    "active": true,
-                    "time": 60,
-                    "title": "Go Detox",
-                    "desc": "",
-                    "cost": 15,
-                    "category": 2
-                },
-                {
-                    "id": 9,
-                    "active": true,
-                    "time": 60,
-                    "title": "Shampoo Taglio Phon",
-                    "desc": "",
-                    "cost": 25,
-                    "category": 1
-                },
-                {
-                    "id": 10,
-                    "active": true,
-                    "time": 60,
-                    "title": "Taglio Detox Phon",
-                    "desc": "",
-                    "cost": 38,
-                    "category": 1
-                }
-            ],
-            "servicesCategories": [
-                {
-                    "id": 1,
-                    "nome": "Uomo"
-                },
-                {
-                    "id": 2,
-                    "nome": "Donna"
-                }
-            ],
-            "workersName": [
-                {
-                    "id": 1,
-                    "nome": "Alice"
-                },
-                {
-                    "id": 2,
-                    "nome": "Luca"
-                }
-            ],
-            "timing": [
-                {
-                    "id": 1,
-                    "orarioStart": "",
-                    "orarioStop": "",
-                    "pausaStart": "",
-                    "pausaStop": "",
-                    "isClosed": true
-                },
-                {
-                    "id": 2,
-                    "orarioStart": "9:30",
-                    "orarioStop": "19:00",
-                    "pausaStart": "",
-                    "pausaStop": "",
-                    "isClosed": false
-                },
-                {
-                    "id": 3,
-                    "orarioStart": "09:30",
-                    "orarioStop": "19:00",
-                    "pausaStart": "",
-                    "pausaStop": "",
-                    "isClosed": false
-                },
-                {
-                    "id": 4,
-                    "orarioStart": "9:30",
-                    "orarioStop": "19:00",
-                    "pausaStart": "",
-                    "pausaStop": "",
-                    "isClosed": false
-                },
-                {
-                    "id": 5,
-                    "orarioStart": "9:30",
-                    "orarioStop": "19:00",
-                    "pausaStart": "",
-                    "pausaStop": "",
-                    "isClosed": false
-                },
-                {
-                    "id": 6,
-                    "orarioStart": "9:30",
-                    "orarioStop": "19:00",
-                    "pausaStart": "",
-                    "pausaStop": "",
-                    "isClosed": false
-                },
-                {
-                    "id": 7,
-                    "orarioStart": "",
-                    "orarioStop": "",
-                    "pausaStart": "",
-                    "pausaStop": "",
-                    "isClosed": true
-                }
-            ],
-            "reviews": [
-                {
-                    "id": 1,
-                    "by": "Laura",
-                    "content": "Sono appena rientrata a casa dopo aver fatto la mia prima esperienza in questo salone,entrando per caso e in tempi ristretti causa lavoro.Cosa dire oltre all.immediata disponibilità e accoglienza,fa da padrone l ironia e l autoironia delle ragazze qualità che apprezzo tanto e contraddistingue molte saloni *Credetemi io ne ho cambiati migliaia.. Mi hanno coccolato tenendo conto delle mie esigenze lasciandomi soddisfatta direi poco.. Ma ultra.. soddisfatta.. Tornerò sapendo di trovare ciò che rispecchia le mie esigenze rapporto qualità prezzo indiscusso.. Saluto a tutte le ragazze nessuno escluso.. Consigliatissimo."
-                }
-            ],
-            "position": [
-                {
-                    "id": 1,
-                    "lat": "45.491380",
-                    "long": "12.241470"
-                }
-            ]
+          "id": 3,
+          "source": ""
+        }
+      ],
+      "services": [
+        {
+          "id": 1,
+          "active": true,
+          "time": 60,
+          "title": "Barba completa",
+          "desc": "Trattamento rilassante con panni caldi e freddi",
+          "cost": 20,
+          "category": 1
         },
         {
-            "id": 3,
-            "nome": "I Marloo Carpenedo",
-            "via": "Via Cà Rossa, 65, 30174 Venezia VE",
-            "rating": 5,
-            "ratings": 1,
-            "desc": "",
-            "source": "https://www.imarlooparrucchierimestre.it/wp-content/uploads/2019/09/carpenedo-16.jpg",
-            "cat": 1,
-            "images": [
-                {
-                    "id": 1,
-                    "source": ""
-                },
-                {
-                    "id": 2,
-                    "source": ""
-                },
-                {
-                    "id": 3,
-                    "source": ""
-                }
-            ],
-            "services": [
-                {
-                    "id": 1,
-                    "active": true,
-                    "time": 60,
-                    "title": "Taglio capelli",
-                    "desc": "",
-                    "cost": 15,
-                    "category": 1
-                },
-                {
-                    "id": 2,
-                    "active": true,
-                    "time": 60,
-                    "title": "Cura Barba",
-                    "desc": "",
-                    "cost": 10,
-                    "category": 1
-                },
-                {
-                    "id": 3,
-                    "active": true,
-                    "time": 60,
-                    "title": "Taglio con piega",
-                    "desc": "",
-                    "cost": 10,
-                    "category": 2
-                },
-                {
-                    "id": 4,
-                    "active": true,
-                    "time": 60,
-                    "title": "Servizio piega",
-                    "desc": "",
-                    "cost": 10,
-                    "category": 2
-                },
-                {
-                    "id": 5,
-                    "active": true,
-                    "time": 60,
-                    "title": "Colorazione",
-                    "desc": "",
-                    "cost": 35,
-                    "category": 3
-                },
-                {
-                    "id": 6,
-                    "active": true,
-                    "time": 60,
-                    "title": "Colpi di Sole",
-                    "desc": "",
-                    "cost": 45,
-                    "category": 3
-                },
-                {
-                    "id": 7,
-                    "active": true,
-                    "time": 60,
-                    "title": "Rainbow",
-                    "desc": "",
-                    "cost": 40,
-                    "category": 3
-                },
-                {
-                    "id": 8,
-                    "active": true,
-                    "time": 60,
-                    "title": "Stiratura",
-                    "desc": "",
-                    "cost": 60,
-                    "category": 3
-                },
-                {
-                    "id": 9,
-                    "active": true,
-                    "time": 60,
-                    "title": "Liscio perfetto",
-                    "desc": "",
-                    "cost": 50,
-                    "category": 3
-                },
-                {
-                    "id": 10,
-                    "active": true,
-                    "time": 60,
-                    "title": "Permanente",
-                    "desc": "",
-                    "cost": 40,
-                    "category": 3
-                },
-                {
-                    "id": 11,
-                    "active": true,
-                    "time": 60,
-                    "title": "Trattamento curativ",
-                    "desc": "",
-                    "cost": 40,
-                    "category": 4
-                },
-                {
-                    "id": 12,
-                    "active": true,
-                    "time": 60,
-                    "title": "Ricostruttore",
-                    "desc": "",
-                    "cost": 65,
-                    "category": 4
-                },
-                {
-                    "id": 13,
-                    "active": true,
-                    "time": 60,
-                    "title": "Extension",
-                    "desc": "",
-                    "cost": 85,
-                    "category": 4
-                },
-                {
-                    "id": 14,
-                    "active": true,
-                    "time": 60,
-                    "title": "Filler Therapy",
-                    "desc": "",
-                    "cost": 60,
-                    "category": 4
-                },
-                {
-                    "id": 15,
-                    "active": true,
-                    "time": 60,
-                    "title": "Acconciatura",
-                    "desc": "",
-                    "cost": 35,
-                    "category": 5
-                },
-                {
-                    "id": 16,
-                    "active": true,
-                    "time": 60,
-                    "title": "Spray Beach",
-                    "desc": "",
-                    "cost": 35,
-                    "category": 6
-                },
-                {
-                    "id": 17,
-                    "active": true,
-                    "time": 60,
-                    "title": "Shampoo after sun",
-                    "desc": "",
-                    "cost": 45,
-                    "category": 6
-                }
-            ],
-            "servicesCategories": [
-                {
-                    "id": 1,
-                    "nome": "Uomo"
-                },
-                {
-                    "id": 2,
-                    "nome": "Servizi"
-                },
-                {
-                    "id": 3,
-                    "nome": "Servizi Tecnici"
-                },
-                {
-                    "id": 4,
-                    "nome": "Trattamenti"
-                },
-                {
-                    "id": 5,
-                    "nome": "Speciale Sposa"
-                },
-                {
-                    "id": 6,
-                    "nome": "Prodotti Nashi"
-                }
-            ],
-            "workersName": [
-                {
-                    "id": 1,
-                    "nome": "Alice"
-                },
-                {
-                    "id": 2,
-                    "nome": "Luca"
-                }
-            ],
-            "timing": [
-                {
-                    "id": 1,
-                    "orarioStart": "",
-                    "orarioStop": "",
-                    "pausaStart": "",
-                    "pausaStop": "",
-                    "isClosed": true
-                },
-                {
-                    "id": 2,
-                    "orarioStart": "9:00",
-                    "orarioStop": "18:00",
-                    "pausaStart": "",
-                    "pausaStop": "",
-                    "isClosed": false
-                },
-                {
-                    "id": 3,
-                    "orarioStart": "09:00",
-                    "orarioStop": "18:00",
-                    "pausaStart": "",
-                    "pausaStop": "",
-                    "isClosed": false
-                },
-                {
-                    "id": 4,
-                    "orarioStart": "9:00",
-                    "orarioStop": "18:00",
-                    "pausaStart": "",
-                    "pausaStop": "",
-                    "isClosed": false
-                },
-                {
-                    "id": 5,
-                    "orarioStart": "9:00",
-                    "orarioStop": "18:00",
-                    "pausaStart": "",
-                    "pausaStop": "",
-                    "isClosed": false
-                },
-                {
-                    "id": 6,
-                    "orarioStart": "9:00",
-                    "orarioStop": "17:00",
-                    "pausaStart": "",
-                    "pausaStop": "",
-                    "isClosed": false
-                },
-                {
-                    "id": 7,
-                    "orarioStart": "",
-                    "orarioStop": "",
-                    "pausaStart": "",
-                    "pausaStop": "",
-                    "isClosed": true
-                }
-            ],
-            "reviews": [
-                {
-                    "id": 1,
-                    "by": "Laura",
-                    "content": "Sono appena rientrata a casa dopo aver fatto la mia prima esperienza in questo salone,entrando per caso e in tempi ristretti causa lavoro.Cosa dire oltre all.immediata disponibilità e accoglienza,fa da padrone l ironia e l autoironia delle ragazze qualità che apprezzo tanto e contraddistingue molte saloni *Credetemi io ne ho cambiati migliaia.. Mi hanno coccolato tenendo conto delle mie esigenze lasciandomi soddisfatta direi poco.. Ma ultra.. soddisfatta.. Tornerò sapendo di trovare ciò che rispecchia le mie esigenze rapporto qualità prezzo indiscusso.. Saluto a tutte le ragazze nessuno escluso.. Consigliatissimo."
-                }
-            ],
-            "position": [
-                {
-                    "id": 1,
-                    "lat": "45.500050",
-                    "long": "12.251950"
-                }
-            ]
+          "id": 2,
+          "active": true,
+          "time": 45,
+          "title": "Taglio uomo",
+          "desc": "Comprende shampoo e taglio",
+          "cost": 15,
+          "category": 1
         },
         {
-            "id": 4,
-            "nome": "I Marloo Mestre",
-            "via": "Piazza XXVII Ottobre, 44/1, 30172 Venezia VE",
-            "rating": 4.5,
-            "ratings": 1,
-            "desc": "",
-            "source": "https://www.imarlooparrucchierimestre.it/wp-content/uploads/2019/09/imarloo200k-6-1.jpg",
-            "cat": 1,
-            "images": [
-                {
-                    "id": 1,
-                    "source": ""
-                },
-                {
-                    "id": 2,
-                    "source": ""
-                },
-                {
-                    "id": 3,
-                    "source": ""
-                }
-            ],
-            "services": [
-                {
-                    "id": 1,
-                    "active": true,
-                    "time": 60,
-                    "desc": "",
-                    "title": "Taglio capelli",
-                    "cost": 15,
-                    "category": 1
-                },
-                {
-                    "id": 2,
-                    "active": true,
-                    "time": 60,
-                    "desc": "",
-                    "title": "Cura Barba",
-                    "cost": 10,
-                    "category": 1
-                },
-                {
-                    "id": 3,
-                    "active": true,
-                    "time": 60,
-                    "title": "Taglio con piega",
-                    "desc": "",
-                    "cost": 10,
-                    "category": 2
-                },
-                {
-                    "id": 4,
-                    "active": true,
-                    "time": 60,
-                    "title": "Servizio piega",
-                    "desc": "",
-                    "cost": 10,
-                    "category": 2
-                },
-                {
-                    "id": 5,
-                    "active": true,
-                    "time": 60,
-                    "desc": "",
-                    "title": "Colorazione",
-                    "cost": 35,
-                    "category": 3
-                },
-                {
-                    "id": 6,
-                    "active": true,
-                    "time": 60,
-                    "desc": "",
-                    "title": "Colpi di Sole",
-                    "cost": 45,
-                    "category": 3
-                },
-                {
-                    "id": 7,
-                    "active": true,
-                    "time": 60,
-                    "desc": "",
-                    "title": "Rainbow",
-                    "cost": 40,
-                    "category": 3
-                },
-                {
-                    "id": 8,
-                    "active": true,
-                    "time": 60,
-                    "desc": "",
-                    "title": "Stiratura",
-                    "cost": 60,
-                    "category": 3
-                },
-                {
-                    "id": 9,
-                    "active": true,
-                    "time": 60,
-                    "desc": "",
-                    "title": "Liscio perfetto",
-                    "cost": 50,
-                    "category": 3
-                },
-                {
-                    "id": 10,
-                    "active": true,
-                    "time": 60,
-                    "desc": "",
-                    "title": "Permanente",
-                    "cost": 40,
-                    "category": 3
-                },
-                {
-                    "id": 11,
-                    "active": true,
-                    "time": 60,
-                    "desc": "",
-                    "title": "Trattamento curativo",
-                    "cost": 40,
-                    "category": 4
-                },
-                {
-                    "id": 12,
-                    "active": true,
-                    "time": 60,
-                    "desc": "",
-                    "title": "Ricostruttore",
-                    "cost": 65,
-                    "category": 4
-                },
-                {
-                    "id": 13,
-                    "active": true,
-                    "time": 60,
-                    "desc": "",
-                    "title": "Extension",
-                    "cost": 85,
-                    "category": 4
-                },
-                {
-                    "id": 14,
-                    "active": true,
-                    "time": 60,
-                    "desc": "",
-                    "title": "Filler Therapy",
-                    "cost": 60,
-                    "category": 4
-                },
-                {
-                    "id": 15,
-                    "active": true,
-                    "time": 60,
-                    "desc": "",
-                    "title": "Acconciatura",
-                    "cost": 35,
-                    "category": 5
-                }
-            ],
-            "servicesCategories": [
-                {
-                    "id": 1,
-                    "nome": "Uomo"
-                },
-                {
-                    "id": 2,
-                    "nome": "Servizi"
-                },
-                {
-                    "id": 3,
-                    "nome": "Servizi Tecnici"
-                },
-                {
-                    "id": 4,
-                    "nome": "Trattamenti"
-                },
-                {
-                    "id": 5,
-                    "nome": "Speciale Sposa"
-                }
-            ],
-            "workersName": [
-                {
-                    "id": 1,
-                    "nome": "Alice"
-                },
-                {
-                    "id": 2,
-                    "nome": "Luca"
-                }
-            ],
-            "timing": [
-                {
-                    "id": 1,
-                    "orarioStart": "",
-                    "orarioStop": "",
-                    "pausaStart": "",
-                    "pausaStop": "",
-                    "isClosed": true
-                },
-                {
-                    "id": 2,
-                    "orarioStart": "9:00",
-                    "orarioStop": "18:00",
-                    "pausaStart": "",
-                    "pausaStop": "",
-                    "isClosed": false
-                },
-                {
-                    "id": 3,
-                    "orarioStart": "09:00",
-                    "orarioStop": "18:00",
-                    "pausaStart": "",
-                    "pausaStop": "",
-                    "isClosed": false
-                },
-                {
-                    "id": 4,
-                    "orarioStart": "9:00",
-                    "orarioStop": "18:00",
-                    "pausaStart": "",
-                    "pausaStop": "",
-                    "isClosed": false
-                },
-                {
-                    "id": 5,
-                    "orarioStart": "9:00",
-                    "orarioStop": "18:00",
-                    "pausaStart": "",
-                    "pausaStop": "",
-                    "isClosed": false
-                },
-                {
-                    "id": 6,
-                    "orarioStart": "9:00",
-                    "orarioStop": "17:00",
-                    "pausaStart": "",
-                    "pausaStop": "",
-                    "isClosed": false
-                },
-                {
-                    "id": 7,
-                    "orarioStart": "",
-                    "orarioStop": "",
-                    "pausaStart": "",
-                    "pausaStop": "",
-                    "isClosed": true
-                }
-            ],
-            "reviews": [
-                {
-                    "id": 1,
-                    "by": "Laura",
-                    "content": "Sono appena rientrata a casa dopo aver fatto la mia prima esperienza in questo salone,entrando per caso e in tempi ristretti causa lavoro.Cosa dire oltre all.immediata disponibilità e accoglienza,fa da padrone l ironia e l autoironia delle ragazze qualità che apprezzo tanto e contraddistingue molte saloni *Credetemi io ne ho cambiati migliaia.. Mi hanno coccolato tenendo conto delle mie esigenze lasciandomi soddisfatta direi poco.. Ma ultra.. soddisfatta.. Tornerò sapendo di trovare ciò che rispecchia le mie esigenze rapporto qualità prezzo indiscusso.. Saluto a tutte le ragazze nessuno escluso.. Consigliatissimo."
-                }
-            ],
-            "position": [
-                {
-                    "id": 1,
-                    "lat": "45.492260",
-                    "long": "12.245270"
-                }
-            ]
+          "id": 3,
+          "active": true,
+          "time": 120,
+          "title": "Colore e piega",
+          "desc": "Servizio di colorazione e piega",
+          "cost": 50,
+          "category": 2
         },
         {
-            "id": 5,
-            "nome": "Edonè",
-            "via": "Via Torre Belfredo 125, 30174 Mestre VE",
-            "rating": 4,
-            "ratings": 1,
-            "desc": "",
-            "source": "https://lh5.googleusercontent.com/p/AF1QipPVpQlyStkzWUxd0LwFPGGXrnUlrqiMRrptagGL=w3000-h3000",
-            "cat": 2,
-            "images": [
-                {
-                    "id": 1,
-                    "source": ""
-                },
-                {
-                    "id": 2,
-                    "source": ""
-                },
-                {
-                    "id": 3,
-                    "source": ""
-                }
-            ],
-            "services": [
-                {
-                    "id": 1,
-                    "active": true,
-                    "time": 60,
-                    "title": "Pulizia del viso Purity",
-                    "desc": "",
-                    "cost": 20,
-                    "category": 1
-                },
-                {
-                    "id": 2,
-                    "active": true,
-                    "time": 60,
-                    "title": "Pulizia del viso Purity Plus",
-                    "desc": "",
-                    "cost": 20,
-                    "category": 1
-                },
-                {
-                    "id": 3,
-                    "active": true,
-                    "time": 60,
-                    "title": "Trattamento esfoliante con maschera",
-                    "desc": "",
-                    "cost": 20,
-                    "category": 1
-                },
-                {
-                    "id": 4,
-                    "active": true,
-                    "time": 60,
-                    "title": "Massaggio viso, décolleté e braccia",
-                    "desc": "",
-                    "cost": 20,
-                    "category": 1
-                },
-                {
-                    "id": 5,
-                    "active": true,
-                    "time": 60,
-                    "title": "Scrub esfoliante al Mosto d’ Uva",
-                    "desc": "",
-                    "cost": 20,
-                    "category": 2
-                },
-                {
-                    "id": 6,
-                    "active": true,
-                    "time": 60,
-                    "title": "Scrub esfoliante al Mosto d’ Uva e massaggio rilassante",
-                    "desc": "",
-                    "cost": 35,
-                    "category": 2
-                },
-                {
-                    "id": 7,
-                    "active": true,
-                    "time": 60,
-                    "title": "Massaggio Total Body (DRENANTE - ANTICELL - TONIFICANTE - DEFATICANTE)",
-                    "desc": "",
-                    "cost": 40,
-                    "category": 2
-                },
-                {
-                    "id": 8,
-                    "active": true,
-                    "time": 60,
-                    "title": "Massaggio Gambe e Piedi",
-                    "desc": "",
-                    "cost": 35,
-                    "category": 2
-                },
-                {
-                    "id": 9,
-                    "active": true,
-                    "time": 60,
-                    "title": "Massaggio LOMI-LOMI",
-                    "desc": "",
-                    "cost": 80,
-                    "category": 2
-                },
-                {
-                    "id": 10,
-                    "active": true,
-                    "time": 60,
-                    "title": "Massaggio con oli caldi essenziali",
-                    "desc": "",
-                    "cost": 50,
-                    "category": 2
-                },
-                {
-                    "id": 11,
-                    "active": true,
-                    "time": 60,
-                    "title": "Massaggio SCACCIA PENSIERI",
-                    "desc": "",
-                    "cost": 65,
-                    "category": 2
-                },
-                {
-                    "id": 12,
-                    "active": true,
-                    "time": 60,
-                    "title": "Baffetti",
-                    "desc": "",
-                    "cost": 65,
-                    "category": 3
-                },
-                {
-                    "id": 13,
-                    "active": true,
-                    "time": 60,
-                    "title": "Baffetti e mento",
-                    "desc": "",
-                    "cost": 25,
-                    "category": 3
-                },
-                {
-                    "id": 14,
-                    "active": true,
-                    "time": 60,
-                    "title": "Sopracciglia",
-                    "desc": "",
-                    "cost": 30,
-                    "category": 3
-                },
-                {
-                    "id": 15,
-                    "active": true,
-                    "time": 60,
-                    "title": "Viso",
-                    "desc": "",
-                    "cost": 35,
-                    "category": 3
-                },
-            ],
-            "servicesCategories": [
-                {
-                    "id": 1,
-                    "nome": "Trattamenti VISO Classic"
-                },
-                {
-                    "id": 2,
-                    "nome": "Trattamenti CORPO Classic"
-                },
-                {
-                    "id": 3,
-                    "nome": "EPILAZIONE ceretta Depiléve"
-                },
-                {
-                    "id": 4,
-                    "nome": "Mani e Piedi"
-                }
-            ],
-            "workersName": [
-                {
-                    "id": 1,
-                    "nome": "Alice"
-                },
-                {
-                    "id": 2,
-                    "nome": "Luca"
-                }
-            ],
-            "timing": [
-                {
-                    "id": 1,
-                    "orarioStart": "9:00",
-                    "orarioStop": "19:00",
-                    "pausaStart": "",
-                    "pausaStop": "",
-                    "isClosed": true
-                },
-                {
-                    "id": 2,
-                    "orarioStart": "9:00",
-                    "orarioStop": "19:00",
-                    "pausaStart": "",
-                    "pausaStop": "",
-                    "isClosed": false
-                },
-                {
-                    "id": 3,
-                    "orarioStart": "13:00",
-                    "orarioStop": "21:00",
-                    "pausaStart": "",
-                    "pausaStop": "",
-                    "isClosed": false
-                },
-                {
-                    "id": 4,
-                    "orarioStart": "9:00",
-                    "orarioStop": "19:00",
-                    "pausaStart": "",
-                    "pausaStop": "",
-                    "isClosed": false
-                },
-                {
-                    "id": 5,
-                    "orarioStart": "9:00",
-                    "orarioStop": "19:00",
-                    "pausaStart": "",
-                    "pausaStop": "",
-                    "isClosed": false
-                },
-                {
-                    "id": 6,
-                    "orarioStart": "9:00",
-                    "orarioStop": "17:30",
-                    "pausaStart": "",
-                    "pausaStop": "",
-                    "isClosed": false
-                },
-                {
-                    "id": 7,
-                    "orarioStart": "",
-                    "orarioStop": "",
-                    "pausaStart": "",
-                    "pausaStop": "",
-                    "isClosed": true
-                }
-            ],
-            "reviews": [
-                {
-                    "id": 1,
-                    "by": "Laura",
-                    "content": "Sono appena rientrata a casa dopo aver fatto la mia prima esperienza in questo salone,entrando per caso e in tempi ristretti causa lavoro.Cosa dire oltre all.immediata disponibilità e accoglienza,fa da padrone l ironia e l autoironia delle ragazze qualità che apprezzo tanto e contraddistingue molte saloni *Credetemi io ne ho cambiati migliaia.. Mi hanno coccolato tenendo conto delle mie esigenze lasciandomi soddisfatta direi poco.. Ma ultra.. soddisfatta.. Tornerò sapendo di trovare ciò che rispecchia le mie esigenze rapporto qualità prezzo indiscusso.. Saluto a tutte le ragazze nessuno escluso.. Consigliatissimo."
-                }
-            ],
-            "position": [
-                {
-                    "id": 1,
-                    "lat": "45.497560",
-                    "long": "12.237060"
-                }
-            ]
-        }
-    ],
-    "cateogries": [
-        {
-            "id": 1,
-            "nome": "Parruchiere"
+          "id": 4,
+          "active": true,
+          "time": 180,
+          "title": "Colore taglio e piega",
+          "desc": "Il servizio comprende colore, taglio e piega",
+          "cost": 80,
+          "category": 2
         },
         {
-            "id": 2,
-            "nome": "Estetista"
+          "id": 5,
+          "active": true,
+          "time": 60,
+          "title": "Illumina",
+          "desc": "Il servizio ti porterà la luce al punto giusto nei tuoi capelli",
+          "cost": 40,
+          "category": 2
         }
-    ],
-    "prenotazioni": [
+      ],
+      "servicesCategories": [
         {
-            "id": 1,
-            "userId": 1,
-            "negozioId": 1,
-            "time": "2020-06-22T11:25:00",
-            "serviceId": 1,
-            "serviceCat": 1,
-            "worker": 1,
-            "accepted": false,
-            "completed": false
-        }
-    ],
-    "reviews": [
+          "id": 1,
+          "nome": "Uomo"
+        },
         {
-            "id": 1,
-            "shopid": 1,
-            "by": "Laura",
-            "content": "",
-            "stars": 5
+          "id": 2,
+          "nome": "Colore"
         }
-    ],
-    "user": [
+      ],
+      "workersName": [
         {
-            "nome": "Jonathan",
-            "cognome": "Canevese",
-            "prenotazioni": [
-                {
-                    "id": 1
-                }
-            ],
-            "role": [
-                "admin"
-            ],
-            "phone": "+393519032961",
-            "email": "j@bizzarro.org",
-            "via": "Via Garigliano, 28 Mestre 30173 VE",
-            "birthday": "05/08/1997",
-            "userpoints": 1000,
-            "registrationDate": "2020-01-22T11:25:00"
+          "id": 1,
+          "nome": "Alice"
+        },
+        {
+          "id": 2,
+          "nome": "Luca"
         }
-    ]
+      ],
+      "timing": [
+        {
+          "id": 1,
+          "orarioStart": "9:00",
+          "orarioStop": "19:00",
+          "pausaStart": "",
+          "pausaStop": "",
+          "isClosed": true
+        },
+        {
+          "id": 2,
+          "orarioStart": "9:00",
+          "orarioStop": "19:00",
+          "pausaStart": "",
+          "pausaStop": "",
+          "isClosed": false
+        },
+        {
+          "id": 3,
+          "orarioStart": "13:00",
+          "orarioStop": "21:00",
+          "pausaStart": "",
+          "pausaStop": "",
+          "isClosed": false
+        },
+        {
+          "id": 4,
+          "orarioStart": "9:00",
+          "orarioStop": "19:00",
+          "pausaStart": "",
+          "pausaStop": "",
+          "isClosed": false
+        },
+        {
+          "id": 5,
+          "orarioStart": "9:00",
+          "orarioStop": "19:00",
+          "pausaStart": "",
+          "pausaStop": "",
+          "isClosed": false
+        },
+        {
+          "id": 6,
+          "orarioStart": "9:00",
+          "orarioStop": "17:30",
+          "pausaStart": "",
+          "pausaStop": "",
+          "isClosed": false
+        },
+        {
+          "id": 7,
+          "orarioStart": "",
+          "orarioStop": "",
+          "pausaStart": "",
+          "pausaStop": "",
+          "isClosed": true
+        }
+      ],
+      "reviews": [
+        {
+          "id": 1,
+          "by": "Laura",
+          "content": "Sono appena rientrata a casa dopo aver fatto la mia prima esperienza in questo salone,entrando per caso e in tempi ristretti causa lavoro.Cosa dire oltre all.immediata disponibilità e accoglienza,fa da padrone l ironia e l autoironia delle ragazze qualità che apprezzo tanto e contraddistingue molte saloni *Credetemi io ne ho cambiati migliaia.. Mi hanno coccolato tenendo conto delle mie esigenze lasciandomi soddisfatta direi poco.. Ma ultra.. soddisfatta.. Tornerò sapendo di trovare ciò che rispecchia le mie esigenze rapporto qualità prezzo indiscusso.. Saluto a tutte le ragazze nessuno escluso.. Consigliatissimo."
+        }
+      ],
+      "lat": "45.499790",
+      "long": "12.246970"
+    },
+    {
+      "id": 2,
+      "nome": "Jean Louis David",
+      "via": "Via Olivi, 42, 30175 Mestre VE",
+      "rating": 1,
+      "ratings": 1,
+      "desc": "benvenuti nell'universo Jean Louis David e in modo particolare benvenuti nel salone di Mestre",
+      "source": "https://extranet.provalliance.biz/legacy/minisite/gallery/visuels/JLD_NB.jpg",
+      "cat": 1,
+      "images": [
+        {
+          "id": 1,
+          "source": ""
+        },
+        {
+          "id": 2,
+          "source": ""
+        },
+        {
+          "id": 3,
+          "source": ""
+        }
+      ],
+      "services": [
+        {
+          "id": 1,
+          "active": true,
+          "time": 60,
+          "title": "Shampoo-Piega",
+          "desc": "",
+          "cost": 20,
+          "category": 2
+        },
+        {
+          "id": 2,
+          "active": true,
+          "time": 60,
+          "title": "Taglio",
+          "desc": "",
+          "cost": 24,
+          "category": 2
+        },
+        {
+          "id": 3,
+          "active": true,
+          "time": 60,
+          "title": "Colore (senza ammoniaca)",
+          "desc": "",
+          "cost": 42,
+          "category": 2
+        },
+        {
+          "id": 4,
+          "active": true,
+          "time": 60,
+          "title": "Gloss Lumiere",
+          "desc": "",
+          "cost": 22,
+          "category": 2
+        },
+        {
+          "id": 5,
+          "active": true,
+          "time": 60,
+          "title": "Contrasti",
+          "desc": "",
+          "cost": 50,
+          "category": 2
+        },
+        {
+          "id": 6,
+          "active": true,
+          "time": 60,
+          "title": "Go Repair",
+          "desc": "",
+          "cost": 30,
+          "category": 2
+        },
+        {
+          "id": 7,
+          "active": true,
+          "time": 60,
+          "title": "Go Color",
+          "desc": "",
+          "cost": 30,
+          "category": 2
+        },
+        {
+          "id": 8,
+          "active": true,
+          "time": 60,
+          "title": "Go Detox",
+          "desc": "",
+          "cost": 15,
+          "category": 2
+        },
+        {
+          "id": 9,
+          "active": true,
+          "time": 60,
+          "title": "Shampoo Taglio Phon",
+          "desc": "",
+          "cost": 25,
+          "category": 1
+        },
+        {
+          "id": 10,
+          "active": true,
+          "time": 60,
+          "title": "Taglio Detox Phon",
+          "desc": "",
+          "cost": 38,
+          "category": 1
+        }
+      ],
+      "servicesCategories": [
+        {
+          "id": 1,
+          "nome": "Uomo"
+        },
+        {
+          "id": 2,
+          "nome": "Donna"
+        }
+      ],
+      "workersName": [
+        {
+          "id": 1,
+          "nome": "Alice"
+        },
+        {
+          "id": 2,
+          "nome": "Luca"
+        }
+      ],
+      "timing": [
+        {
+          "id": 1,
+          "orarioStart": "",
+          "orarioStop": "",
+          "pausaStart": "",
+          "pausaStop": "",
+          "isClosed": true
+        },
+        {
+          "id": 2,
+          "orarioStart": "9:30",
+          "orarioStop": "19:00",
+          "pausaStart": "",
+          "pausaStop": "",
+          "isClosed": false
+        },
+        {
+          "id": 3,
+          "orarioStart": "09:30",
+          "orarioStop": "19:00",
+          "pausaStart": "",
+          "pausaStop": "",
+          "isClosed": false
+        },
+        {
+          "id": 4,
+          "orarioStart": "9:30",
+          "orarioStop": "19:00",
+          "pausaStart": "",
+          "pausaStop": "",
+          "isClosed": false
+        },
+        {
+          "id": 5,
+          "orarioStart": "9:30",
+          "orarioStop": "19:00",
+          "pausaStart": "",
+          "pausaStop": "",
+          "isClosed": false
+        },
+        {
+          "id": 6,
+          "orarioStart": "9:30",
+          "orarioStop": "19:00",
+          "pausaStart": "",
+          "pausaStop": "",
+          "isClosed": false
+        },
+        {
+          "id": 7,
+          "orarioStart": "",
+          "orarioStop": "",
+          "pausaStart": "",
+          "pausaStop": "",
+          "isClosed": true
+        }
+      ],
+      "reviews": [
+        {
+          "id": 1,
+          "by": "Laura",
+          "content": "Sono appena rientrata a casa dopo aver fatto la mia prima esperienza in questo salone,entrando per caso e in tempi ristretti causa lavoro.Cosa dire oltre all.immediata disponibilità e accoglienza,fa da padrone l ironia e l autoironia delle ragazze qualità che apprezzo tanto e contraddistingue molte saloni *Credetemi io ne ho cambiati migliaia.. Mi hanno coccolato tenendo conto delle mie esigenze lasciandomi soddisfatta direi poco.. Ma ultra.. soddisfatta.. Tornerò sapendo di trovare ciò che rispecchia le mie esigenze rapporto qualità prezzo indiscusso.. Saluto a tutte le ragazze nessuno escluso.. Consigliatissimo."
+        }
+      ],
+      "lat": "45.491380",
+      "long": "12.241470"
+    },
+    {
+      "id": 3,
+      "nome": "I Marloo Carpenedo",
+      "via": "Via Cà Rossa, 65, 30174 Venezia VE",
+      "rating": 5,
+      "ratings": 1,
+      "desc": "",
+      "source": "https://www.imarlooparrucchierimestre.it/wp-content/uploads/2019/09/carpenedo-16.jpg",
+      "cat": 1,
+      "images": [
+        {
+          "id": 1,
+          "source": ""
+        },
+        {
+          "id": 2,
+          "source": ""
+        },
+        {
+          "id": 3,
+          "source": ""
+        }
+      ],
+      "services": [
+        {
+          "id": 1,
+          "active": true,
+          "time": 60,
+          "title": "Taglio capelli",
+          "desc": "",
+          "cost": 15,
+          "category": 1
+        },
+        {
+          "id": 2,
+          "active": true,
+          "time": 60,
+          "title": "Cura Barba",
+          "desc": "",
+          "cost": 10,
+          "category": 1
+        },
+        {
+          "id": 3,
+          "active": true,
+          "time": 60,
+          "title": "Taglio con piega",
+          "desc": "",
+          "cost": 10,
+          "category": 2
+        },
+        {
+          "id": 4,
+          "active": true,
+          "time": 60,
+          "title": "Servizio piega",
+          "desc": "",
+          "cost": 10,
+          "category": 2
+        },
+        {
+          "id": 5,
+          "active": true,
+          "time": 60,
+          "title": "Colorazione",
+          "desc": "",
+          "cost": 35,
+          "category": 3
+        },
+        {
+          "id": 6,
+          "active": true,
+          "time": 60,
+          "title": "Colpi di Sole",
+          "desc": "",
+          "cost": 45,
+          "category": 3
+        },
+        {
+          "id": 7,
+          "active": true,
+          "time": 60,
+          "title": "Rainbow",
+          "desc": "",
+          "cost": 40,
+          "category": 3
+        },
+        {
+          "id": 8,
+          "active": true,
+          "time": 60,
+          "title": "Stiratura",
+          "desc": "",
+          "cost": 60,
+          "category": 3
+        },
+        {
+          "id": 9,
+          "active": true,
+          "time": 60,
+          "title": "Liscio perfetto",
+          "desc": "",
+          "cost": 50,
+          "category": 3
+        },
+        {
+          "id": 10,
+          "active": true,
+          "time": 60,
+          "title": "Permanente",
+          "desc": "",
+          "cost": 40,
+          "category": 3
+        },
+        {
+          "id": 11,
+          "active": true,
+          "time": 60,
+          "title": "Trattamento curativ",
+          "desc": "",
+          "cost": 40,
+          "category": 4
+        },
+        {
+          "id": 12,
+          "active": true,
+          "time": 60,
+          "title": "Ricostruttore",
+          "desc": "",
+          "cost": 65,
+          "category": 4
+        },
+        {
+          "id": 13,
+          "active": true,
+          "time": 60,
+          "title": "Extension",
+          "desc": "",
+          "cost": 85,
+          "category": 4
+        },
+        {
+          "id": 14,
+          "active": true,
+          "time": 60,
+          "title": "Filler Therapy",
+          "desc": "",
+          "cost": 60,
+          "category": 4
+        },
+        {
+          "id": 15,
+          "active": true,
+          "time": 60,
+          "title": "Acconciatura",
+          "desc": "",
+          "cost": 35,
+          "category": 5
+        },
+        {
+          "id": 16,
+          "active": true,
+          "time": 60,
+          "title": "Spray Beach",
+          "desc": "",
+          "cost": 35,
+          "category": 6
+        },
+        {
+          "id": 17,
+          "active": true,
+          "time": 60,
+          "title": "Shampoo after sun",
+          "desc": "",
+          "cost": 45,
+          "category": 6
+        }
+      ],
+      "servicesCategories": [
+        {
+          "id": 1,
+          "nome": "Uomo"
+        },
+        {
+          "id": 2,
+          "nome": "Servizi"
+        },
+        {
+          "id": 3,
+          "nome": "Servizi Tecnici"
+        },
+        {
+          "id": 4,
+          "nome": "Trattamenti"
+        },
+        {
+          "id": 5,
+          "nome": "Speciale Sposa"
+        },
+        {
+          "id": 6,
+          "nome": "Prodotti Nashi"
+        }
+      ],
+      "workersName": [
+        {
+          "id": 1,
+          "nome": "Alice"
+        },
+        {
+          "id": 2,
+          "nome": "Luca"
+        }
+      ],
+      "timing": [
+        {
+          "id": 1,
+          "orarioStart": "",
+          "orarioStop": "",
+          "pausaStart": "",
+          "pausaStop": "",
+          "isClosed": true
+        },
+        {
+          "id": 2,
+          "orarioStart": "9:00",
+          "orarioStop": "18:00",
+          "pausaStart": "",
+          "pausaStop": "",
+          "isClosed": false
+        },
+        {
+          "id": 3,
+          "orarioStart": "09:00",
+          "orarioStop": "18:00",
+          "pausaStart": "",
+          "pausaStop": "",
+          "isClosed": false
+        },
+        {
+          "id": 4,
+          "orarioStart": "9:00",
+          "orarioStop": "18:00",
+          "pausaStart": "",
+          "pausaStop": "",
+          "isClosed": false
+        },
+        {
+          "id": 5,
+          "orarioStart": "9:00",
+          "orarioStop": "18:00",
+          "pausaStart": "",
+          "pausaStop": "",
+          "isClosed": false
+        },
+        {
+          "id": 6,
+          "orarioStart": "9:00",
+          "orarioStop": "17:00",
+          "pausaStart": "",
+          "pausaStop": "",
+          "isClosed": false
+        },
+        {
+          "id": 7,
+          "orarioStart": "",
+          "orarioStop": "",
+          "pausaStart": "",
+          "pausaStop": "",
+          "isClosed": true
+        }
+      ],
+      "reviews": [
+        {
+          "id": 1,
+          "by": "Laura",
+          "content": "Sono appena rientrata a casa dopo aver fatto la mia prima esperienza in questo salone,entrando per caso e in tempi ristretti causa lavoro.Cosa dire oltre all.immediata disponibilità e accoglienza,fa da padrone l ironia e l autoironia delle ragazze qualità che apprezzo tanto e contraddistingue molte saloni *Credetemi io ne ho cambiati migliaia.. Mi hanno coccolato tenendo conto delle mie esigenze lasciandomi soddisfatta direi poco.. Ma ultra.. soddisfatta.. Tornerò sapendo di trovare ciò che rispecchia le mie esigenze rapporto qualità prezzo indiscusso.. Saluto a tutte le ragazze nessuno escluso.. Consigliatissimo."
+        }
+      ],
+      "lat": "45.500050",
+      "long": "12.251950"
+    },
+    {
+      "id": 4,
+      "nome": "I Marloo Mestre",
+      "via": "Piazza XXVII Ottobre, 44/1, 30172 Venezia VE",
+      "rating": 4.5,
+      "ratings": 1,
+      "desc": "",
+      "source": "https://www.imarlooparrucchierimestre.it/wp-content/uploads/2019/09/imarloo200k-6-1.jpg",
+      "cat": 1,
+      "images": [
+        {
+          "id": 1,
+          "source": ""
+        },
+        {
+          "id": 2,
+          "source": ""
+        },
+        {
+          "id": 3,
+          "source": ""
+        }
+      ],
+      "services": [
+        {
+          "id": 1,
+          "active": true,
+          "time": 60,
+          "desc": "",
+          "title": "Taglio capelli",
+          "cost": 15,
+          "category": 1
+        },
+        {
+          "id": 2,
+          "active": true,
+          "time": 60,
+          "desc": "",
+          "title": "Cura Barba",
+          "cost": 10,
+          "category": 1
+        },
+        {
+          "id": 3,
+          "active": true,
+          "time": 60,
+          "title": "Taglio con piega",
+          "desc": "",
+          "cost": 10,
+          "category": 2
+        },
+        {
+          "id": 4,
+          "active": true,
+          "time": 60,
+          "title": "Servizio piega",
+          "desc": "",
+          "cost": 10,
+          "category": 2
+        },
+        {
+          "id": 5,
+          "active": true,
+          "time": 60,
+          "desc": "",
+          "title": "Colorazione",
+          "cost": 35,
+          "category": 3
+        },
+        {
+          "id": 6,
+          "active": true,
+          "time": 60,
+          "desc": "",
+          "title": "Colpi di Sole",
+          "cost": 45,
+          "category": 3
+        },
+        {
+          "id": 7,
+          "active": true,
+          "time": 60,
+          "desc": "",
+          "title": "Rainbow",
+          "cost": 40,
+          "category": 3
+        },
+        {
+          "id": 8,
+          "active": true,
+          "time": 60,
+          "desc": "",
+          "title": "Stiratura",
+          "cost": 60,
+          "category": 3
+        },
+        {
+          "id": 9,
+          "active": true,
+          "time": 60,
+          "desc": "",
+          "title": "Liscio perfetto",
+          "cost": 50,
+          "category": 3
+        },
+        {
+          "id": 10,
+          "active": true,
+          "time": 60,
+          "desc": "",
+          "title": "Permanente",
+          "cost": 40,
+          "category": 3
+        },
+        {
+          "id": 11,
+          "active": true,
+          "time": 60,
+          "desc": "",
+          "title": "Trattamento curativo",
+          "cost": 40,
+          "category": 4
+        },
+        {
+          "id": 12,
+          "active": true,
+          "time": 60,
+          "desc": "",
+          "title": "Ricostruttore",
+          "cost": 65,
+          "category": 4
+        },
+        {
+          "id": 13,
+          "active": true,
+          "time": 60,
+          "desc": "",
+          "title": "Extension",
+          "cost": 85,
+          "category": 4
+        },
+        {
+          "id": 14,
+          "active": true,
+          "time": 60,
+          "desc": "",
+          "title": "Filler Therapy",
+          "cost": 60,
+          "category": 4
+        },
+        {
+          "id": 15,
+          "active": true,
+          "time": 60,
+          "desc": "",
+          "title": "Acconciatura",
+          "cost": 35,
+          "category": 5
+        }
+      ],
+      "servicesCategories": [
+        {
+          "id": 1,
+          "nome": "Uomo"
+        },
+        {
+          "id": 2,
+          "nome": "Servizi"
+        },
+        {
+          "id": 3,
+          "nome": "Servizi Tecnici"
+        },
+        {
+          "id": 4,
+          "nome": "Trattamenti"
+        },
+        {
+          "id": 5,
+          "nome": "Speciale Sposa"
+        }
+      ],
+      "workersName": [
+        {
+          "id": 1,
+          "nome": "Alice"
+        },
+        {
+          "id": 2,
+          "nome": "Luca"
+        }
+      ],
+      "timing": [
+        {
+          "id": 1,
+          "orarioStart": "",
+          "orarioStop": "",
+          "pausaStart": "",
+          "pausaStop": "",
+          "isClosed": true
+        },
+        {
+          "id": 2,
+          "orarioStart": "9:00",
+          "orarioStop": "18:00",
+          "pausaStart": "",
+          "pausaStop": "",
+          "isClosed": false
+        },
+        {
+          "id": 3,
+          "orarioStart": "09:00",
+          "orarioStop": "18:00",
+          "pausaStart": "",
+          "pausaStop": "",
+          "isClosed": false
+        },
+        {
+          "id": 4,
+          "orarioStart": "9:00",
+          "orarioStop": "18:00",
+          "pausaStart": "",
+          "pausaStop": "",
+          "isClosed": false
+        },
+        {
+          "id": 5,
+          "orarioStart": "9:00",
+          "orarioStop": "18:00",
+          "pausaStart": "",
+          "pausaStop": "",
+          "isClosed": false
+        },
+        {
+          "id": 6,
+          "orarioStart": "9:00",
+          "orarioStop": "17:00",
+          "pausaStart": "",
+          "pausaStop": "",
+          "isClosed": false
+        },
+        {
+          "id": 7,
+          "orarioStart": "",
+          "orarioStop": "",
+          "pausaStart": "",
+          "pausaStop": "",
+          "isClosed": true
+        }
+      ],
+      "reviews": [
+        {
+          "id": 1,
+          "by": "Laura",
+          "content": "Sono appena rientrata a casa dopo aver fatto la mia prima esperienza in questo salone,entrando per caso e in tempi ristretti causa lavoro.Cosa dire oltre all.immediata disponibilità e accoglienza,fa da padrone l ironia e l autoironia delle ragazze qualità che apprezzo tanto e contraddistingue molte saloni *Credetemi io ne ho cambiati migliaia.. Mi hanno coccolato tenendo conto delle mie esigenze lasciandomi soddisfatta direi poco.. Ma ultra.. soddisfatta.. Tornerò sapendo di trovare ciò che rispecchia le mie esigenze rapporto qualità prezzo indiscusso.. Saluto a tutte le ragazze nessuno escluso.. Consigliatissimo."
+        }
+      ],
+      "lat": "45.492260",
+      "long": "12.245270"
+    },
+    {
+      "id": 5,
+      "nome": "Edonè",
+      "via": "Via Torre Belfredo 125, 30174 Mestre VE",
+      "rating": 4,
+      "ratings": 1,
+      "desc": "",
+      "source": "https://lh5.googleusercontent.com/p/AF1QipPVpQlyStkzWUxd0LwFPGGXrnUlrqiMRrptagGL=w3000-h3000",
+      "cat": 2,
+      "images": [
+        {
+          "id": 1,
+          "source": ""
+        },
+        {
+          "id": 2,
+          "source": ""
+        },
+        {
+          "id": 3,
+          "source": ""
+        }
+      ],
+      "services": [
+        {
+          "id": 1,
+          "active": true,
+          "time": 60,
+          "title": "Pulizia del viso Purity",
+          "desc": "",
+          "cost": 20,
+          "category": 1
+        },
+        {
+          "id": 2,
+          "active": true,
+          "time": 60,
+          "title": "Pulizia del viso Purity Plus",
+          "desc": "",
+          "cost": 20,
+          "category": 1
+        },
+        {
+          "id": 3,
+          "active": true,
+          "time": 60,
+          "title": "Trattamento esfoliante con maschera",
+          "desc": "",
+          "cost": 20,
+          "category": 1
+        },
+        {
+          "id": 4,
+          "active": true,
+          "time": 60,
+          "title": "Massaggio viso, décolleté e braccia",
+          "desc": "",
+          "cost": 20,
+          "category": 1
+        },
+        {
+          "id": 5,
+          "active": true,
+          "time": 60,
+          "title": "Scrub esfoliante al Mosto d’ Uva",
+          "desc": "",
+          "cost": 20,
+          "category": 2
+        },
+        {
+          "id": 6,
+          "active": true,
+          "time": 60,
+          "title": "Scrub esfoliante al Mosto d’ Uva e massaggio rilassante",
+          "desc": "",
+          "cost": 35,
+          "category": 2
+        },
+        {
+          "id": 7,
+          "active": true,
+          "time": 60,
+          "title": "Massaggio Total Body (DRENANTE - ANTICELL - TONIFICANTE - DEFATICANTE)",
+          "desc": "",
+          "cost": 40,
+          "category": 2
+        },
+        {
+          "id": 8,
+          "active": true,
+          "time": 60,
+          "title": "Massaggio Gambe e Piedi",
+          "desc": "",
+          "cost": 35,
+          "category": 2
+        },
+        {
+          "id": 9,
+          "active": true,
+          "time": 60,
+          "title": "Massaggio LOMI-LOMI",
+          "desc": "",
+          "cost": 80,
+          "category": 2
+        },
+        {
+          "id": 10,
+          "active": true,
+          "time": 60,
+          "title": "Massaggio con oli caldi essenziali",
+          "desc": "",
+          "cost": 50,
+          "category": 2
+        },
+        {
+          "id": 11,
+          "active": true,
+          "time": 60,
+          "title": "Massaggio SCACCIA PENSIERI",
+          "desc": "",
+          "cost": 65,
+          "category": 2
+        },
+        {
+          "id": 12,
+          "active": true,
+          "time": 60,
+          "title": "Baffetti",
+          "desc": "",
+          "cost": 65,
+          "category": 3
+        },
+        {
+          "id": 13,
+          "active": true,
+          "time": 60,
+          "title": "Baffetti e mento",
+          "desc": "",
+          "cost": 25,
+          "category": 3
+        },
+        {
+          "id": 14,
+          "active": true,
+          "time": 60,
+          "title": "Sopracciglia",
+          "desc": "",
+          "cost": 30,
+          "category": 3
+        },
+        {
+          "id": 15,
+          "active": true,
+          "time": 60,
+          "title": "Viso",
+          "desc": "",
+          "cost": 35,
+          "category": 3
+        }
+      ],
+      "servicesCategories": [
+        {
+          "id": 1,
+          "nome": "Trattamenti VISO Classic"
+        },
+        {
+          "id": 2,
+          "nome": "Trattamenti CORPO Classic"
+        },
+        {
+          "id": 3,
+          "nome": "EPILAZIONE ceretta Depiléve"
+        },
+        {
+          "id": 4,
+          "nome": "Mani e Piedi"
+        }
+      ],
+      "workersName": [
+        {
+          "id": 1,
+          "nome": "Alice"
+        },
+        {
+          "id": 2,
+          "nome": "Luca"
+        }
+      ],
+      "timing": [
+        {
+          "id": 1,
+          "orarioStart": "9:00",
+          "orarioStop": "19:00",
+          "pausaStart": "",
+          "pausaStop": "",
+          "isClosed": true
+        },
+        {
+          "id": 2,
+          "orarioStart": "9:00",
+          "orarioStop": "19:00",
+          "pausaStart": "",
+          "pausaStop": "",
+          "isClosed": false
+        },
+        {
+          "id": 3,
+          "orarioStart": "13:00",
+          "orarioStop": "21:00",
+          "pausaStart": "",
+          "pausaStop": "",
+          "isClosed": false
+        },
+        {
+          "id": 4,
+          "orarioStart": "9:00",
+          "orarioStop": "19:00",
+          "pausaStart": "",
+          "pausaStop": "",
+          "isClosed": false
+        },
+        {
+          "id": 5,
+          "orarioStart": "9:00",
+          "orarioStop": "19:00",
+          "pausaStart": "",
+          "pausaStop": "",
+          "isClosed": false
+        },
+        {
+          "id": 6,
+          "orarioStart": "9:00",
+          "orarioStop": "17:30",
+          "pausaStart": "",
+          "pausaStop": "",
+          "isClosed": false
+        },
+        {
+          "id": 7,
+          "orarioStart": "",
+          "orarioStop": "",
+          "pausaStart": "",
+          "pausaStop": "",
+          "isClosed": true
+        }
+      ],
+      "reviews": [
+        {
+          "id": 1,
+          "by": "Laura",
+          "content": "Sono appena rientrata a casa dopo aver fatto la mia prima esperienza in questo salone,entrando per caso e in tempi ristretti causa lavoro.Cosa dire oltre all.immediata disponibilità e accoglienza,fa da padrone l ironia e l autoironia delle ragazze qualità che apprezzo tanto e contraddistingue molte saloni *Credetemi io ne ho cambiati migliaia.. Mi hanno coccolato tenendo conto delle mie esigenze lasciandomi soddisfatta direi poco.. Ma ultra.. soddisfatta.. Tornerò sapendo di trovare ciò che rispecchia le mie esigenze rapporto qualità prezzo indiscusso.. Saluto a tutte le ragazze nessuno escluso.. Consigliatissimo."
+        }
+      ],
+      "lat": "45.497560",
+      "long": "12.237060"
+    }
+  ],
+  "cateogries": [
+    {
+      "id": 1,
+      "nome": "Parruchiere"
+    },
+    {
+      "id": 2,
+      "nome": "Estetista"
+    }
+  ],
+  "prenotazioni": [
+    {
+      "id": 1,
+      "userId": 1,
+      "negozioId": 1,
+      "time": "2020-06-22T11:25:00",
+      "serviceId": 1,
+      "serviceCat": 1,
+      "worker": 1,
+      "accepted": false,
+      "completed": false
+    }
+  ],
+  "user": [
+    {
+      "nome": "Jonathan",
+      "cognome": "Canevese",
+      "prenotazioni": [
+        {
+          "id": 1
+        }
+      ],
+      "role": [
+        "admin"
+      ],
+      "phone": "+393519032961",
+      "email": "j@bizzarro.org",
+      "via": "Via Garigliano, 28 Mestre 30173 VE",
+      "birthday": "05/08/1997",
+      "userpoints": 1000,
+      "registrationDate": "2020-01-22T11:25:00"
+    }
+  ]
 }
