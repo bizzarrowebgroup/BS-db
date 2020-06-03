@@ -115,7 +115,7 @@
       "timing": [
         {
           "id": 1,
-          "orarioStart": "9:00",
+          "orarioStart": "09:00",
           "orarioStop": "19:00",
           "pausaStart": "",
           "pausaStop": "",
@@ -123,7 +123,7 @@
         },
         {
           "id": 2,
-          "orarioStart": "9:00",
+          "orarioStart": "09:00",
           "orarioStop": "19:00",
           "pausaStart": "",
           "pausaStop": "",
@@ -139,7 +139,7 @@
         },
         {
           "id": 4,
-          "orarioStart": "9:00",
+          "orarioStart": "09:00",
           "orarioStop": "19:00",
           "pausaStart": "",
           "pausaStop": "",
@@ -147,7 +147,7 @@
         },
         {
           "id": 5,
-          "orarioStart": "9:00",
+          "orarioStart": "09:00",
           "orarioStop": "19:00",
           "pausaStart": "",
           "pausaStop": "",
@@ -155,7 +155,7 @@
         },
         {
           "id": 6,
-          "orarioStart": "9:00",
+          "orarioStart": "09:00",
           "orarioStop": "17:30",
           "pausaStart": "",
           "pausaStop": "",
@@ -326,7 +326,7 @@
         },
         {
           "id": 2,
-          "orarioStart": "9:30",
+          "orarioStart": "09:30",
           "orarioStop": "19:00",
           "pausaStart": "",
           "pausaStop": "",
@@ -342,7 +342,7 @@
         },
         {
           "id": 4,
-          "orarioStart": "9:30",
+          "orarioStart": "09:30",
           "orarioStop": "19:00",
           "pausaStart": "",
           "pausaStop": "",
@@ -350,7 +350,7 @@
         },
         {
           "id": 5,
-          "orarioStart": "9:30",
+          "orarioStart": "09:30",
           "orarioStop": "19:00",
           "pausaStart": "",
           "pausaStop": "",
@@ -358,7 +358,7 @@
         },
         {
           "id": 6,
-          "orarioStart": "9:30",
+          "orarioStart": "09:30",
           "orarioStop": "19:00",
           "pausaStart": "",
           "pausaStop": "",
@@ -608,7 +608,7 @@
         },
         {
           "id": 2,
-          "orarioStart": "9:00",
+          "orarioStart": "09:00",
           "orarioStop": "18:00",
           "pausaStart": "",
           "pausaStop": "",
@@ -624,7 +624,7 @@
         },
         {
           "id": 4,
-          "orarioStart": "9:00",
+          "orarioStart": "09:00",
           "orarioStop": "18:00",
           "pausaStart": "",
           "pausaStop": "",
@@ -632,7 +632,7 @@
         },
         {
           "id": 5,
-          "orarioStart": "9:00",
+          "orarioStart": "09:00",
           "orarioStop": "18:00",
           "pausaStart": "",
           "pausaStop": "",
@@ -640,7 +640,7 @@
         },
         {
           "id": 6,
-          "orarioStart": "9:00",
+          "orarioStart": "09:00",
           "orarioStop": "17:00",
           "pausaStart": "",
           "pausaStop": "",
@@ -868,7 +868,7 @@
         },
         {
           "id": 2,
-          "orarioStart": "9:00",
+          "orarioStart": "09:00",
           "orarioStop": "18:00",
           "pausaStart": "",
           "pausaStop": "",
@@ -884,7 +884,7 @@
         },
         {
           "id": 4,
-          "orarioStart": "9:00",
+          "orarioStart": "09:00",
           "orarioStop": "18:00",
           "pausaStart": "",
           "pausaStop": "",
@@ -892,7 +892,7 @@
         },
         {
           "id": 5,
-          "orarioStart": "9:00",
+          "orarioStart": "09:00",
           "orarioStop": "18:00",
           "pausaStart": "",
           "pausaStop": "",
@@ -900,7 +900,7 @@
         },
         {
           "id": 6,
-          "orarioStart": "9:00",
+          "orarioStart": "09:00",
           "orarioStop": "17:00",
           "pausaStart": "",
           "pausaStop": "",
@@ -1116,7 +1116,7 @@
       "timing": [
         {
           "id": 1,
-          "orarioStart": "9:00",
+          "orarioStart": "09:00",
           "orarioStop": "19:00",
           "pausaStart": "",
           "pausaStop": "",
@@ -1124,7 +1124,7 @@
         },
         {
           "id": 2,
-          "orarioStart": "9:00",
+          "orarioStart": "09:00",
           "orarioStop": "19:00",
           "pausaStart": "",
           "pausaStop": "",
@@ -1140,7 +1140,7 @@
         },
         {
           "id": 4,
-          "orarioStart": "9:00",
+          "orarioStart": "09:00",
           "orarioStop": "19:00",
           "pausaStart": "",
           "pausaStop": "",
@@ -1148,7 +1148,7 @@
         },
         {
           "id": 5,
-          "orarioStart": "9:00",
+          "orarioStart": "09:00",
           "orarioStop": "19:00",
           "pausaStart": "",
           "pausaStop": "",
@@ -1156,7 +1156,7 @@
         },
         {
           "id": 6,
-          "orarioStart": "9:00",
+          "orarioStart": "09:00",
           "orarioStop": "17:30",
           "pausaStart": "",
           "pausaStop": "",
@@ -1180,6 +1180,311 @@
       ],
       "lat": "45.497560",
       "long": "12.237060"
+    },
+    {
+        "id": 6,
+        "nome": "Coka Club Venezia",
+        "via": "Dorsoduro 1303/A, 30123 Venezia VE",
+        "rating": 4.5,
+        "ratings": 1,
+        "desc": "Dal 1994 Il più conosciuto centro benessere e Istituto estetico del centro storico di Venezia. Coniugando tradizione ed innovazione, Coka Club ha sempre perseguito l’eccellenza e l’avanguardia nei trattamenti estetici e nel wellness, con l'obiettivo di assicurare comfort, sicurezza ed efficacia al dono più prezioso che la sua clientela potesse offrirgli: affidargli la propria bellezza ed il proprio benessere.",
+        "source": "https://lh5.googleusercontent.com/p/AF1QipPVpQlyStkzWUxd0LwFPGGXrnUlrqiMRrptagGL=w3000-h3000",
+        "cat": 2,
+        "images": [
+            {
+                "id": 1,
+                "source": ""
+            },
+            {
+                "id": 2,
+                "source": ""
+            },
+            {
+                "id": 3,
+                "source": ""
+            }
+        ],
+        "services": [
+            {
+                "id": 1,
+                "active": true,
+                "time": 60,
+                "title": "Trattamento Detossinante Viso",
+                "desc": "",
+                "cost": 20,
+                "category": 1
+            },
+            {
+                "id": 2,
+                "active": true,
+                "time": 60,
+                "title": "Trattamento Specifico per macchie",
+                "desc": "",
+                "cost": 20,
+                "category": 1
+            },
+            {
+                "id": 3,
+                "active": true,
+                "time": 60,
+                "title": "Trattamento Specifico antiage",
+                "desc": "",
+                "cost": 20,
+                "category": 1
+            },
+            {
+                "id": 4,
+                "active": true,
+                "time": 60,
+                "title": "Trattamento Specifico per pelli secche/sensibili",
+                "desc": "",
+                "cost": 20,
+                "category": 1
+            },
+            {
+                "id": 5,
+                "active": true,
+                "time": 60,
+                "title": "Trattamento Specifico per pelle grassa/impura",
+                "desc": "",
+                "cost": 20,
+                "category": 1
+            },
+            {
+                "id": 6,
+                "active": true,
+                "time": 60,
+                "title": "Trattamento di preparazione al sole",
+                "desc": "",
+                "cost": 20,
+                "category": 2
+            },
+            {
+                "id": 7,
+                "active": true,
+                "time": 60,
+                "title": "Trattamento detox",
+                "desc": "",
+                "cost": 35,
+                "category": 2
+            },
+            {
+                "id": 8,
+                "active": true,
+                "time": 60,
+                "title": "Trattamento remineralizzante",
+                "desc": "",
+                "cost": 40,
+                "category": 2
+            },
+            {
+                "id": 9,
+                "active": true,
+                "time": 60,
+                "title": "Trattamento anticellulite",
+                "desc": "",
+                "cost": 35,
+                "category": 2
+            },
+            {
+                "id": 10,
+                "active": true,
+                "time": 60,
+                "title": "Trattamento adiposità",
+                "desc": "",
+                "cost": 80,
+                "category": 2
+            },
+            {
+                "id": 11,
+                "active": true,
+                "time": 60,
+                "title": "Trattamento modellamento",
+                "desc": "",
+                "cost": 50,
+                "category": 2
+            },
+            {
+                "id": 12,
+                "active": true,
+                "time": 60,
+                "title": "Trattamento tonificante",
+                "desc": "",
+                "cost": 65,
+                "category": 2
+            },
+            {
+                "id": 13,
+                "active": true,
+                "time": 60,
+                "title": "Manicure",
+                "desc": "",
+                "cost": 65,
+                "category": 3
+            },
+            {
+                "id": 14,
+                "active": true,
+                "time": 60,
+                "title": "Applicazione di smalto semipermanente",
+                "desc": "",
+                "cost": 25,
+                "category": 3
+            },
+            {
+                "id": 15,
+                "active": true,
+                "time": 60,
+                "title": "Pedicure estetica e avanzata",
+                "desc": "",
+                "cost": 30,
+                "category": 3
+            },
+            {
+                "id": 16,
+                "active": true,
+                "time": 60,
+                "title": "Epilazione con cera classica",
+                "desc": "",
+                "cost": 35,
+                "category": 4
+            },
+            {
+                "id": 17,
+                "active": true,
+                "time": 60,
+                "title": "Epilazione con pasta di zucchero",
+                "desc": "",
+                "cost": 35,
+                "category": 4
+            },
+            {
+                "id": 18,
+                "active": true,
+                "time": 60,
+                "title": "Epilazione Progressiva definitiva",
+                "desc": "",
+                "cost": 35,
+                "category": 4
+            },
+            {
+                "id": 19,
+                "active": true,
+                "time": 60,
+                "title": "Doccia",
+                "desc": "7 minuti",
+                "cost": 15,
+                "category": 5
+            },
+            {
+                "id": 20,
+                "active": true,
+                "time": 60,
+                "title": "Lettino",
+                "desc": "10 minuti",
+                "cost": 20,
+                "category": 5
+            }
+        ],
+        "servicesCategories": [
+            {
+                "id": 1,
+                "nome": "Trattamenti Viso"
+            },
+            {
+                "id": 2,
+                "nome": "Trattamenti Corpo"
+            },
+            {
+                "id": 3,
+                "nome": "Estetica Base"
+            },
+            {
+                "id": 4,
+                "nome": "Epilazione"
+            },
+            {
+                "id": 5,
+                "nome": "Solarium"
+            }
+        ],
+        "workersName": [
+            {
+                "id": 1,
+                "nome": "Alice"
+            },
+            {
+                "id": 2,
+                "nome": "Luca"
+            }
+        ],
+        "timing": [
+            {
+                "id": 1,
+                "orarioStart": "909:00",
+                "orarioStop": "19:00",
+                "pausaStart": "",
+                "pausaStop": "",
+                "isClosed": false
+            },
+            {
+                "id": 2,
+                "orarioStart": "09:00",
+                "orarioStop": "19:00",
+                "pausaStart": "",
+                "pausaStop": "",
+                "isClosed": false
+            },
+            {
+                "id": 3,
+                "orarioStart": "09:00",
+                "orarioStop": "19:00",
+                "pausaStart": "",
+                "pausaStop": "",
+                "isClosed": false
+            },
+            {
+                "id": 4,
+                "orarioStart": "09:00",
+                "orarioStop": "19:00",
+                "pausaStart": "",
+                "pausaStop": "",
+                "isClosed": false
+            },
+            {
+                "id": 5,
+                "orarioStart": "09:00",
+                "orarioStop": "19:00",
+                "pausaStart": "",
+                "pausaStop": "",
+                "isClosed": false
+            },
+            {
+                "id": 6,
+                "orarioStart": "09:00",
+                "orarioStop": "17:00",
+                "pausaStart": "",
+                "pausaStop": "",
+                "isClosed": false
+            },
+            {
+                "id": 7,
+                "orarioStart": "",
+                "orarioStop": "",
+                "pausaStart": "",
+                "pausaStop": "",
+                "isClosed": true
+            }
+        ],
+        "reviews": [
+            {
+                "id": 1,
+                "by": "Laura",
+                "content": "Sono appena rientrata a casa dopo aver fatto la mia prima esperienza in questo salone,entrando per caso e in tempi ristretti causa lavoro.Cosa dire oltre all.immediata disponibilità e accoglienza,fa da padrone l ironia e l autoironia delle ragazze qualità che apprezzo tanto e contraddistingue molte saloni *Credetemi io ne ho cambiati migliaia.. Mi hanno coccolato tenendo conto delle mie esigenze lasciandomi soddisfatta direi poco.. Ma ultra.. soddisfatta.. Tornerò sapendo di trovare ciò che rispecchia le mie esigenze rapporto qualità prezzo indiscusso.. Saluto a tutte le ragazze nessuno escluso.. Consigliatissimo."
+            }
+        ],
+        "lat": "45.429500",
+        "long": "12.330240"
     }
   ],
   "cateogries": [
